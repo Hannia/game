@@ -19,7 +19,7 @@ const Account = () => {
                 </div>
                 <div className="col-sm-4 img-gift">
                     <img className="svg-circle" src="/assets/icon.svg" alt="icon" />
-                    <i className="fa fa-gift fa-6" aria-hidden="true"></i>
+                    <i className="fa fa-gift fa-6 animate" aria-hidden="true"></i>
                 </div>
             </div>
         </div>

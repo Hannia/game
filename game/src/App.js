@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Banner from './components/banner/banner';
 import AllGame from './components/allGames/allgames';
@@ -22,8 +21,6 @@ function App() {
         <Footer />
       </div>
     </body>
-
-
   );
 }
 
