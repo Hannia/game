@@ -1,0 +1,16 @@
+.nav-link {
+    color: #fff;
+  }
+
+.navbar {
+  margin-bottom: 2%;
+}
+
+.block {
+  display: block;
+}
+
+.margin-top-bottom-0 > p {
+  margin-top: 0;
+  margin-bottom: 0;
+}

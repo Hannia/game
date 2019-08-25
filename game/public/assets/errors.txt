@@ -1,0 +1,2 @@
+[2019-8-23 15:04:36] layer "200 free spins +": Expected end of input but "+" found.
+[2019-8-23 15:04:36] layer "200 free spins +": Expected end of input but "+" found.

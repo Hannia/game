@@ -1,0 +1,62 @@
+
+.background {
+    background-color: #18284a;
+    border-radius: 25px;
+    margin-top: 5%; 
+}
+.color-white{
+    color: #fff;
+}
+
+.link {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.margin-35 {
+    margin: 35px; 
+}
+
+.size-bg {
+    font-size: 32pt;
+}
+
+.size-md {
+    font-size: 24pt;
+}
+
+.size-sm{
+    font-size: 14pt;
+}
+
+.text-bold{
+    font-weight: bold;
+}
+
+.btn-create {
+    background-color: #fe0001;
+    color: #fff;
+    border-color: #fe0001; 
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.margin-b-off {
+    margin-bottom: 0;
+}
+
+.img-gift > img {
+    margin-top: 90px;
+}
+
+.fa-gift {
+    font-size: 10em !important;
+    position: absolute;
+    color: black;
+    margin-top: 126px;
+    margin-left: 50px;
+}
+
+.svg-circle {
+    position: absolute;
+}

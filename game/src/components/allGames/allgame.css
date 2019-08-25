@@ -1,0 +1,48 @@
+.nav-search {
+    display: inline-block;
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: .25rem;
+    font-size: 1rem;
+    line-height: inherit;
+    white-space: nowrap;
+    color: #fff;
+    margin: 15px;
+}
+
+.input-search {
+    display: inline-block;
+    border-radius: .25rem;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color:transparent;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+}
+
+.icon {
+    font-size: 1.5em !important;
+    position: absolute !important;
+    right: 77px;
+    top: 5px;
+}
+
+.group {
+    margin-top: 15px;
+}
+
+.imgGame > img {
+    width: 24%;
+    padding: 20px;
+
+}
+
+.margin-left {
+    margin-left: 50px;
+}
+
+
+

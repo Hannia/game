@@ -1,0 +1,49 @@
+.img-block > img{
+    margin-bottom: 15%;
+    margin-top: 15%;
+}
+
+.margin-b-5 {
+    margin-bottom: 5%;
+}
+
+.color-white {
+ color: #fff;
+}
+
+.md-size {
+font-size: 24pt;
+}
+
+.bg-size {
+    font-size: 52pt;
+}
+
+.color-total{
+    color: #fe0001;
+}
+
+.text-color > div > p {
+    color: #8f1e2b;
+}
+
+.background {
+    background-color: #18284a;
+    border-radius: 25px;
+}
+
+.border-top {
+    margin-top: 5%;
+    border-top-color: 2px solid #fff;
+    margin-left: 0 !important;
+}
+
+.margin-t-5 {
+    margin-top: 5%;
+}
+
+.btn-sign {
+    background-color: #fe0001;
+    color: #fff;
+    border-color: #fe0001; 
+}
