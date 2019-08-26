@@ -44,5 +44,19 @@
     margin-left: 50px;
 }
 
+.btn-icon {
+    position: absolute;
+    margin-top: 90px;
+    background-color: transparent;
+    border-color: transparent;  
+}
+
+.margin-left-15 {
+    margin-left: 15px;
+}
+
+.margin-left-90 {
+    margin-left: -90px;
+}
 
 
